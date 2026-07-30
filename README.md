@@ -29,7 +29,7 @@ Depoyu klonlayın, betiğe çalıştırma izni verin ve başlatın:
 
 ```bash
 # Depoyu klonlayın
-git clone [https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git)
+git clone https://github.com/shadowxy144/ip-sorgu.git
 
 # Dizin içine girin
 cd ip-sorgu
